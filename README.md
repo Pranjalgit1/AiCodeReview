@@ -27,3 +27,7 @@ https://ai-code-review-39a1.vercel.app/
 ## Setup
 
 Clone the repository:
+
+## Screenshot 
+<img width="1392" height="709" alt="image" src="https://github.com/user-attachments/assets/8da21b63-ffc9-4523-bc02-f6499f62f326" />
+
